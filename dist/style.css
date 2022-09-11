@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  font-family: "Montserrat", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #f3f3f3;
+  overflow-x: hidden;
+}
